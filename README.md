@@ -120,7 +120,7 @@ npm run build && npm run client:build
 4. Launch the app in development environment
 
 ```
-npm run dev
+npm run start:dev
 ```
 
 5. Visit app:

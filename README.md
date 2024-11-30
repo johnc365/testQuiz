@@ -127,6 +127,8 @@ npm run dev
 
 [http://localhost:3001/](http://localhost:3001/)
 
+For furthe instruction, wath the videoguide <a href="https://drive.google.com/file/d/1tpcmFgySR1m9pKI61oddxgz4gSyacp-u/view?usp=sharing">here</a>.
+
 <!-- ROADMAP -->
 
 ## Roadmap
